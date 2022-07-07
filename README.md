@@ -1,11 +1,10 @@
 <p align="center">
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wxxk&theme=merko&show_icons=true)
 
 ![](https://img.shields.io/github/followers/wxxk?style=social)
-
 ![](https://img.shields.io/youtube/channel/subscribers/UCCPas1euGWS7blGIXTNzSFA?style=social)
-
 <a href="https://www.instagram.com/wx.xk_/">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
