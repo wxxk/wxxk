@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wxxk&theme=merko&show_icons=true)
 
 ![](https://img.shields.io/github/followers/wxxk?style=social)
