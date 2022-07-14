@@ -13,10 +13,10 @@
 <div align="center">
     <a href="mailto:dwde22@gmail.com">
         <img 
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://instagram.com/zzh_remi/"
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://instagram.com/wxxk/"
             style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
     </a>
-    <a href="https://instagram.com/zzh_remi">
+    <a href="https://instagram.com/wxxk">
         <img 
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/wx.xk_/"
             style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
