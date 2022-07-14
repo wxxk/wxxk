@@ -13,7 +13,7 @@
 <div align="center">
     <a href="mailto:dwde22@gmail.com">
         <img 
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://instagram.com/wx.xk_/"
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link="mailto:dwde22@gmail.com""
             style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
     </a>
     <a href="https://instagram.com/wx.xk_">
