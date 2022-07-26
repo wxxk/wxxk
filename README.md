@@ -1,14 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=wxxk&fontSize=50&fontColor=ffffff&fontAlign=70)
 
-### 🥇my status
+## 🥇my status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wxxk&theme=merko&show_icons=true) [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dwde2)](https://solved.ac/dwde2)
 
-### 🤖Skills
+## 🤖Skills
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 
-### 🤝 Contact me
+## 🤝 Contact me
 
 <a href="mailto:dwde22@gmail.com">
     <img 
@@ -21,7 +21,8 @@
         style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
 </a>
 
----
+</br></br>
 
+---
 ![](https://img.shields.io/github/followers/wxxk?style=social)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwxxk&count_bg=%2357A819&title_bg=%23000000&icon=github.svg&icon_color=%2300FF06&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
