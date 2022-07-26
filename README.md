@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=wxxk&fontSize=50&fontColor=ffffff&fontAlign=70)
 - I’m currently learning
 
-</br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wxxk&theme=merko&show_icons=true) [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dwde2)](https://solved.ac/dwde2)
+
 ### 🤖Skills
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
