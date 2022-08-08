@@ -2,7 +2,7 @@
 
 ## 🥇my status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wxxk&theme=merko&show_icons=true)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dwde2)](https://solved.ac/{dwde2)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dwde2)](https://solved.ac/dwde2/)
 
 ## 🤖Skills
 
