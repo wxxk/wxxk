@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/564x/54/8e/8b/548e8bf3178a571bf53c44e5ede2b50c.jpg" alt="" class="" style="text-align: center;">
+<img src="https://i.pinimg.com/564x/54/8e/8b/548e8bf3178a571bf53c44e5ede2b50c.jpg" alt="" class="" style="text-align; center;">
 
 
 ## 🥇my status
