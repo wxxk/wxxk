@@ -11,7 +11,12 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dwde2)](https://solved.ac/dwde2/)
 
 
-</br></br>
+</br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wxxk&theme=tokyonight)](https://git.io/streak-stats)
+
+
+</br>
 
 ---
 ![](https://img.shields.io/github/followers/wxxk?style=social)
