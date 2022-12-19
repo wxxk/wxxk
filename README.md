@@ -4,10 +4,7 @@
 
 
 
-## 🥇my status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wxxk&theme=merko&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wxxk&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dwde2)](https://solved.ac/dwde2/)
 
 
