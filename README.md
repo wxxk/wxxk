@@ -1,5 +1,8 @@
  <div align="center">
 
+
+![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&text=Welcome_WXXK&animation=twinkling&height=250&fontAlign=60&fontAlignY=40&fontColor=FFFFFF&rotate=17&) 
+ 
 ![dangsini-maeil-86400reul-badneundamyeon-short-ytshorts savetube me (1)](https://user-images.githubusercontent.com/108647524/207112378-c73ebedf-127b-4d9a-a1a4-6fc1284e4e16.gif)
 
 
@@ -18,5 +21,6 @@
 ---
 ![](https://img.shields.io/github/followers/wxxk?style=social)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwxxk&count_bg=%2357A819&title_bg=%23000000&icon=github.svg&icon_color=%2300FF06&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 </div>
