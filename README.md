@@ -19,8 +19,7 @@
 </br>
 
 ---
-![](https://img.shields.io/github/followers/wxxk?style=social)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwxxk&count_bg=%2357A819&title_bg=%23000000&icon=github.svg&icon_color=%2300FF06&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wxxk)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/wx.xk_/)
 
 </div>
